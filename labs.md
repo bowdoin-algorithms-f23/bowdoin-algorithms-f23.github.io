@@ -20,7 +20,7 @@ as a class and if you find that useful (or not) be sure to let me know
 how you feel so that we can adjust.
 
 Overall you’ll probably find that most of your learning occurs
-in the lab while working with your peers!
+in the lab while working with your peers.
 
 
 
