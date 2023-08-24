@@ -14,7 +14,7 @@ be announced and released in Canvas.
 __Quizzes honor code__:
 
 - The quizzes are __closed__ book and notes;
-you may __not__ consult any resource that may give you a hint on how
+you may not consult any resource that may give you a hint on how
 to solve the problems.  and this includes former students who took
 this class before you. You may not post on any public forum any of the
 questions on the quizzes. You may not search for answers on the

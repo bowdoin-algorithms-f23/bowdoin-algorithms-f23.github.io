@@ -138,22 +138,21 @@ interviews which draw heavily from the content of this class. It is
 important to pack many topics in the syllabus and expose you to
 challenging new problems.  Ultimately the goal of the class is to give
 you the tools so that you can solve new problems on your own.  A
-strong algorithmic backgound will elevate your analytical and
-abstraction skills and will be a big advantage to your career path,
+strong algorithmic backgound will improve your analytical and
+abstraction abilities and will be a big advantage to your career path,
 whatever it might be.
 
 My teaching style is to create a friendly, open atmosphere where
 everyone feels comfortable and motivated to learn. There are no stupid
 questions---any question is a sign that you want to engage. Based on
-my experience, the most effective learning happens when YOU (the
-class) work well together.  Open collaboration in the lab will be
-highly encouraged. Assignments are pair-optional, although everyone is
-highly encouraged to find a partner.  To support everyone's learning
-at their own pace I have created detailed lecture notes and an ample
-set of supporting study questions, practice problems and
-quizzes. Please help me make this class great by staying engaged and
-by giving me feedback (even if I don't ask for it)! Feedback is always
-welcome.
+my experience, the most effective learning happens when YOU all work
+well together.  Open collaboration in the lab is  highly
+encouraged. All assignments are pair-optional, although everyone is highly
+encouraged to find a partner.  To support everyone's learning at their
+own pace I have created detailed lecture notes and an ample set of
+supporting study questions, practice problems and quizzes. Please help
+me make this class great by staying engaged and by giving me feedback
+(even if I don't ask for it)! Feedback is always welcome.
 
 I know there are circumstances in our lives that we can't control. If you  have any (significant) circumstances that make learning hard, just talk to me, and we will figure something out. 
 
@@ -172,7 +171,7 @@ seem very similar, may have very different solutions.
 
 * 2101: When you write code, the process of getting your code to work forces you to correct your logic until the program does what it's supposed to do.   
 
-* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that almost work .  The hard part will be coming up with an algorithm that are actually correct (and efficient). That's the beauty of it! 
+* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that almost work .  The hard part will be coming up with an algorithm that are actually correct (and efficient). That's the beauty of theory.
 
 
 Here are some suggestions for doing well :
@@ -181,7 +180,7 @@ Here are some suggestions for doing well :
 
 * Be pro-active about things that are not clear. There's a lot of
   helpful free resources out there. Just search on the Internet
-  (really, that's ~~allowed~~ encouraged).
+  (really, that's ~~allowed~~ encouraged). BUT: don't search for the assignment problems (because that violates the honor code and  you won't learn much). 
 
 * Self-reflection: Try to formulate questions, and try to answer them yourself.
 
