@@ -33,25 +33,17 @@ levels of collaboration it outlines. Specifically for this class,
       recreate the solution later from memory is proof that you
       actually understood it). Communication needs to stay at a high
       level and cannot include sharing pseudo-code for the problem.
+  * **Quizzes and exams:** At collaboration-level 3 (no collaboration
+      allowed, professor clarifications only).
 
 There are lots of resources online, such as lecture notes, animations,
 visualizations, practice problems, video recordings, which you are
 encouraged to explore to help you understand the material. However,
 you must be careful not to search the internet for specific problems
 with the intent to get hints for their solutions. __Searching for the
-assignment problems on the internet  violates academic honesty for this
-class.__
+assignment problems on the internet, and this includes ChatGPT,
+violates academic honesty for this class.__
 
-ChatGPT should not be used for the same reason that you shoud not
-search the internet for the problems --- you will not learn much.
-
-  * **Quizzes and exams:** At collaboration-level 3 (no collaboration
-      allowed, professor clarifications only).
-
-While peer instruction can be immensely useful, it can also harm. Once
-you have an idea, or you found a solution, resist giving hints to your
-peers or leading them towards the answer. You are not helping them by
-doing so. Direct them towards the LAs who are trained to give help.
 
 Remember that you are responsible for reading, understanding, and
 adhering to the department policy. If you have any questions about any

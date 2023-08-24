@@ -30,7 +30,7 @@ The weekly schedule for LA **office hours**  is below.
 | Saturdays    |  
 
 
-__Laura's office hours:__ Mondays 3-4:30 and Fridays 9:30-11. Location = my office Searles 219
+__Laura's office hours:__ Mondays 3-4:30 and Fridays 9:30-11, in my office Searles 219.
 
 
 Occasional changes to this schedule  will be posted on Slack. 
