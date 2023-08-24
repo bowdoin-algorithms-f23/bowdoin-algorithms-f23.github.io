@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: --Quizzes
+title: ---Quizzes
 nav_order: 9
 ---
 
