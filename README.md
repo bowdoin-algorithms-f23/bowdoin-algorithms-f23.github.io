@@ -1,5 +1,5 @@
 # bowdoin-algorithms-f23.github.io
 
-This repo contains the website for Intro to Algorithms (csci 2200), Fall 2023, Bowdoin College.
+This repo contains the website for *CSCI 2200: Intro to Algorithms*, Fall 2023, Bowdoin College.
 
 The site will be published at https://bowdoin-algorithms-f23.github.io/
