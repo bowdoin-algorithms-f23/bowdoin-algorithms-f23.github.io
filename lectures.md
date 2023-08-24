@@ -14,7 +14,7 @@ _August 30-September 1_
 We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are  familiar with most of this content from Data Structures. 
 
 __Objectives:__ 
-  * Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to compare them, analyze them and apply  them to various inputs
+  * Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to analyze them and apply  them to various inputs
   * Understand the basics of algorithm analysis, big-Oh notation,  best-case and worst-case analysis
 
 __Resources:__     
@@ -32,9 +32,8 @@ _September 4-8_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 
-Over the next two weeks introduce the tools for algorithms analysis.  Asymptotic analysis is expressed with O(), Ω() and Θ() notation. We give  formal definitions and discuss the differences between them and why big-oh is not sufficient.  We introduce the two summations that come up often: arithmetic and geometric summations. 
+Over the next two weeks we introduce the tools for algorithms analysis.  Asymptotic analysis is expressed with O(), Ω() and Θ() notation. We give  formal definitions and discuss the differences between them and why big-oh is not sufficient.  We introduce the two summations that come up in analysis: arithmetic and geometric summations. 
 
-This part of the class is heavy on discrete math like logarithms, exponents, limits and recursive functions, which most of you have not seen in a long time.  The bright side is that there are formulas and rules for everything and it's just a matter of practice.  Give yourself time to practice and expect it will take time.   
 
 __Objectives:__ 
 * Understand the relevance of analysis in practice, as well as its assumptions and limitations
@@ -58,7 +57,10 @@ __Resources:__
 ### Week 3: Mergesort and Recurrences
 _September 11-15_
 
-We continue with analysis and introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence we introduce a new sorting algorithm called Mergesort.  Mergesort is the first algorithm we see in this class which beats the quadratic bound. 
+We continue with analysis and introduce the "recurrence" to express
+the running time of recursive algorithms. We also introduce a new
+sorting algorithm called Mergesort.  Mergesort is the first algorithm
+we see in this class which beats the quadratic bound.
 
 __Objectives:__ 
 * Understand Mergesort: how it works, why it works, and its running time analysis
@@ -78,13 +80,13 @@ __Resources:__
 ### Week 4: Heapsort and Quicksort
 _September 18-22_
 
-So far we discussed the tools necessary for analyzing algorithms (asymptotic notation, summations and recurrences) and we have seen a couple of sorting algorithms at work. This week we introduce new sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort.  Randomized-Quicksort is considered the most efficient general-purpose sort in practice.
+This week we introduce more sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort.  Randomized-Quicksort is considered the most efficient general-purpose sort in practice.
 
 __Objectives:__ 
 * Understand  how the binary heap is defined and the operations supported  (deleteMin, insert, heapify, buildheap) along with their analysis 
 * Understand how Heapsort works in place 
 * Be able to use the heap as a tool to solve new problems 
-* Understand Quicksort, Randomized-Quicksort and analyzis
+* Understand Quicksort, Randomized-Quicksort and the analyzis
 
 
 __Resources:__     
@@ -153,9 +155,6 @@ __Resources:__
          
 ***
  
-### SPRING BREAK
-
-***
 
 ### Week 8: Dynamic Programming 
 _October 16-20_
@@ -183,7 +182,6 @@ _October 23-27_
 We add more dynamic programming examples and we introduce the greedy technique via the _activity selection_ problem. 
 
 __Objectives:__ 
-* Understand the DP solution for the knapsack problem 
 * Understand  how  the greedy technique works in general and contrast it with DP
 * Understand the greedy solution for the example in the lecture  (activity selection), including the correctness justification 
 
@@ -218,10 +216,14 @@ __Resources:__
 
 
 
-### Week 11: Graphs: Basics, BFS and DFS and their applications.  Topological order.
-_November 6-10_
+### Week 11, 12: Graphs: Basics, BFS and DFS and their applications.  Topological order.
+_November 6-17_
 
-Once you learn about graphs, you start to see their applications  everywhere. This week we start with basic terminology and the traversals, breadth-first and depth-first, which are the stepping stone to many  other problems. We introduce the problem of a computing topological order on a directed acyclic graph (DAG).  
+Once you learn about graphs, you start to see their applications
+everywhere. This week we start with basic terminology and the
+traversals, breadth-first and depth-first, which are the stepping
+stone to many other problems. We introduce the problem of a computing
+topological order on a directed acyclic graph (DAG).
 
 
 __Objectives:__ 
@@ -234,29 +236,28 @@ __Objectives:__
 __Resources:__
 *  __Lecture notes:__ [LN-graphBasics.pdf](docs/LN-basics.pdf), [LN-bfsdfs.pdf](docs/LN-bfsdfs.pdf), [LN-topsort.pdf](docs/LN-topsort.pdf)
 *  __Lab:__   [Lab11](docs/lab11.pdf) 
-*  Exam 2 in class
 * __Assignment:__  [Assignment 10](docs/hw10.pdf) in Gradescope
 
 ***
  
  
  
-### Week 12, 13:   Shortest paths (DAGs, Dijkstra and Bellman-Ford) 
-_November 13-21 (1.5 weeks)_
+### Week 12, 13, 14:    Shortest paths on DAGs,  Dijkstra and  Bellman-Ford. 
+_November 13-30_
 
-We discuss a fundamental problems on graphs ---shortest paths and see
-some of the nicest algorithms in computer science: Dijkstra's and
-Bellman-Ford's algorithms. While describing them we try to understand
-some common principles that guided their design. We'll see that
-Bellman-Ford's algorithm uses dynamic programming and Dijkstra's is a
-greedy algorithm, making these nice applications of the techniques we
-studied earlier in the semester.
+We discuss shortest paths on graphs and see some of the nicest
+algorithms in computer science: Dijkstra's and Bellman-Ford's
+algorithms. While describing them we try to understand some common
+principles that guided their design. We'll see that Bellman-Ford's
+algorithm uses dynamic programming and Dijkstra's is a greedy
+algorithm, making these nice applications of the techniques we studied
+earlier in the semester.
 
 
 __Objectives:__
 
 * Understand the algorithms for computing shortest paths explained in
-the notes: how they work, why they work, and their complexity
+the notes: how they work, why they work, and their analysis
 
 __Resources:__
 *  __Lecture notes__:  [LN-shpaths.pdf](docs/LN-shpaths.pdf), [LN-mst.pdf](docs/LN-mst.pdf), [LN-mst-summary.pdf](docs/LN-mst-summary.pdf), 
@@ -268,11 +269,11 @@ __Resources:__
 
 
  
- ### Week 14, 15:   The Minimum Spanning Tree (MST) 
+### Week 14, 15: The Minimum Spanning Tree (MST) 
 _November 27-December 8_
 
 Another fundamental problem on graphs is computing a MST. We discuss
-a couple of properties of MSTs which will get us intuition for how to
+some properties of MSTs which will get us intuition for how to
 compute an MST efficiently. We'll glance at two well-known algorithms,
 Prim's and Kruskal's, which are both greedy algorithms much in the
 spirit of Dijkstra.  Their correctness follows from a neat result
@@ -295,7 +296,7 @@ __Resources:__
 ### Last lecture
 _December 6_
 
-A quick review and work on some extra fun problems!
+A quick review and some extra fun problems!
 
 
 __Resources:__
@@ -305,4 +306,4 @@ __Resources:__
 
 ### Exam 3: [final exam slot will be posted in Polaris]
 
-***
+
