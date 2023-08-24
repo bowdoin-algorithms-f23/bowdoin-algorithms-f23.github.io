@@ -34,7 +34,7 @@ levels of collaboration it outlines. Specifically for this class,
       actually understood it). Communication needs to stay at a high
       level and cannot include sharing pseudo-code for the problem.
 
-      * **Quizzes and exams:** At *collaboration-level 3* (no collaboration
+  * **Quizzes and exams:** At *collaboration-level 3* (no collaboration
       allowed, professor clarifications only).
 
 ### Internet policy
