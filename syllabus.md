@@ -56,7 +56,7 @@ of computer science in general" [Kleinberg & Tardos]
 
 
 
-###The weekly flow
+### The weekly flow
 
 Each week, _before coming to class_, read the lecture notes for that
 week. It is expected that you understand the big ideas and results
@@ -82,7 +82,7 @@ lab while working with your peers!
 
    
   
-###Work and Grading Policy:
+### Work and Grading Policy
 
 - __Quizzes: 10%__ There will be 3-5 quizzes in the first half of the
   semester.  Expect them to be short and focused on the specific topic
@@ -107,7 +107,7 @@ lab while working with your peers!
 
 
 
-###Time Commitment
+### Time Commitment
 
 This is a core CS class and will demand a significant time commitment
 in order to achieve the learning goals. The actual time will vary from
@@ -123,7 +123,7 @@ practice. If you finish faster, use the time to work on the challenge
 problems provided with each lab.
 
 
-###What you can expect from me
+### What you can expect from me
 
 My goal is to teach a class that's similar to algorithms classes at
 peer institutions. The syllabus is packed and you will find the pace
@@ -159,7 +159,7 @@ I know there are circumstances in our lives that we can't control. If you  have 
 
 
 
-###Tips:
+### Tips
 
 You will likely find this class to be difficult and very different
 than 2101. The material is theoretical and spans many levels of
