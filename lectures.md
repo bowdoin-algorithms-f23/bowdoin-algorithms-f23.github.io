@@ -18,7 +18,7 @@ __Objectives:__
   * Understand the basics of algorithm analysis, big-Oh notation,  best-case and worst-case analysis
 
 __Resources:__     
-  * __Notes:__ [LN-warmup.pdf](./docs/LN-warmup.pdf)     
+  * __Notes:__ [LN-warmup.pdf](../docs/LN-warmup.pdf)     
   *  __Lab:__   [Lab 1](docs/lab1.pdf), [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)
   
  ***
