@@ -23,4 +23,4 @@ Overall you’ll probably find that most of your learning occurs
 in the lab while working with your peers.
 
 
-
+* [Lab 1](docs/lab1.pdf), [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)
