@@ -49,9 +49,9 @@ of computer science in general" [Kleinberg & Tardos]
 
 |:---------------------|:--------------------|                
 | Week 1, 2, 3    |  Introduction and review (bubble sort, insertion sort, selection sort, best case and worst cases analysis). Analysis tools (asymptotic notation, summations, recurrences). |                
-| Week 4, 5, 6    | Efficient sorting (mergesort, heapsort,  quicksort, randomized quicksort). Sorting lower bound, bucket sort and counting sort. Selection (quick-select and O(n) worst-case selection) |                      
+| Week 4, 5, 6    | Efficient sorting (mergesort, heapsort,  quicksort, randomized quicksort). Sorting lower bound, bucket sort and counting sort. Selection with quick-select) and in O(n) worst-case. |                      
 | Week 7, 8, 9, 10  | Techniques (divide-and-conquer, dynamic programming and greedy).  |                           
-| Week 11, 12, 13, 14, 15 | Graphs basics, shortest paths (shortest paths on DAGs, Dijkstra's  and Bellman-Ford algorithms) and minimum spanning trees (Kruskal's and Prim's algorithms)|
+| Week 11, 12, 13, 14, 15 | Graphs basics, shortest paths on DAGs, Dijkstra's  and Bellman-Ford SSSP algorithms, and minimum spanning trees with Kruskal's and Prim's algorithms.|
 
 
 
@@ -84,19 +84,24 @@ lab while working with your peers!
   
 ### Work and Grading Policy
 
-- __Quizzes: 10%__ There will be 3-5 quizzes in the first half of the
+- __Quizzes: 10%__ There will be 5 quizzes in the first half of the
   semester.  Expect them to be short and focused on the specific topic
   discussed that week.  _They will be released in Canvas_ and you'll
   take them remotely from your room. They are self-graded.  They are
   all weighed equally (although the number of questions in each will
   be different).
 
-- __Assignments: 40%__ There will be a total of 8-12 assignments
+- __Assignments: 40%__ There will be 8-12 assignments
   throughout the semester, roughly one per week. The assignments
   consist of new problems, for which you'll have to come up with
   efficient solutions. _They will be released in Gradescope._
 
-- __Exams: 50%__ There will be 3 in-class exams: the first one in in week 6, the second one in week 10 and the last one at the end of the semester (check Polaris for the final exam slot for this class).  The exams are non-cumulative, to the extent that it's possible. All exams are weighed equally. The exams weigh 15%, 15% and 20%, respectively. 
+- __Exams: 50%__ There will be 3 in-class exams: the first one in in
+  week 6, the second one in week 10 and the last one at the end of the
+  semester (check Polaris for the final exam slot for this class).
+  The exams are non-cumulative, to the extent that it's possible. All
+  exams are weighed equally. The exams weigh 15%, 15% and 20%,
+  respectively.
 
 - __Class engagement:__ This means attending class, working with your
   group in the lab, asking questions, engaging in discussions,
@@ -171,7 +176,7 @@ seem very similar, may have very different solutions.
 
 * 2101: When you write code, the process of getting your code to work forces you to correct your logic until the program does what it's supposed to do.   
 
-* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. _Thinking through your idea and all the cases that might happen --- it all happens in your head._ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that almost work .  The hard part will be coming up with an algorithm that are actually correct (and efficient). That's the beauty of theory.
+* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that almost work .  The hard part will be coming up with an algorithm that are actually correct (and efficient). That's the beauty of theory.
 
 
 Here are some suggestions for doing well :
@@ -180,7 +185,7 @@ Here are some suggestions for doing well :
 
 * Be pro-active about things that are not clear. There's a lot of
   helpful free resources out there. Just search on the Internet
-  (really, that's ~~allowed~~ encouraged). BUT: don't search for the assignment problems (because that violates the honor code and  you won't learn much). 
+  (really, that's ~~allowed~~ encouraged). BUT: don't search for the assignment problems (because that violates the honor code and  you won't learn anythingmuch). 
 
 * Self-reflection: Try to formulate questions, and try to answer them yourself.
 

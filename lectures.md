@@ -20,7 +20,6 @@ __Objectives:__
 __Resources:__     
   * __Notes:__ [LN-warmup.pdf](docs/LN-warmup.pdf)     
   *  __Lab:__   [Lab 1](docs/lab1.pdf), [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)
-  * __Assignment:__ Quiz1 in Canvas, [Assignment1](docs/hw1.pdf) in Gradescope
   
  ***
  
@@ -49,7 +48,6 @@ __Objectives:__
 __Resources:__    
   * __Notes:__ [LN-asymptoticNotation.pdf](docs/LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/LN-summations.pdf), [quiz2-practice.pdf](docs/quiz2-practice.pdf)
   * __Lab:__   [Lab2](docs/lab2.pdf) 
-  * __Assignment:__   Quiz2 in Canvas, [Assignment 2](docs/hw2.pdf) in Gradescope
   
 ***
       
@@ -71,7 +69,6 @@ __Objectives:__
 __Resources:__    
   * __Notes:__ [LN-recurrences.pdf](docs/LN-recurrences.pdf), [quiz3-practice.pdf](docs/quiz3-practice.pdf)
    * __Lab:__   [Lab3](docs/lab3.pdf) 
-  * __Assignment:__ Quiz3 in Canvas, [Assignment 3](docs/hw3.pdf) in Gradescope
    
  ***
 
@@ -92,7 +89,6 @@ __Objectives:__
 __Resources:__     
 * __Notes:__ [LN-heapsort.pdf](docs/LN-heapsort.pdf), [LN-quicksort.pdf](docs/LN-quicksort.pdf),  [slides-heaps.pdf](docs/slides-heaps.pdf) ; [slides-quicksort.pdf](docs/slides-quicksort.pdf)
 * __Lab:__   [Lab4](docs/lab4.pdf)   
-* __Assignment:__ Quiz4 in Canvas, [Assignment 4](docs/hw4.pdf) in  Gradescope
 
  ***
   
@@ -113,7 +109,6 @@ __Objectives:__
 __Resources:__     
   * __Notes:__ [LN-linsort.pdf](docs/LN-linsort.pdf), [LN-selection.pdf](docs/LN-selection.pdf)
  * __Lab:__  [Lab5](docs/lab5.pdf),  [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](docs/python-quicksort.ipynb)
- * __Assignment:__  Quiz5 in Canvas, [Assignment 5](docs/hw5.pdf) in Gradescope
  *          
  ***
 
@@ -151,8 +146,7 @@ __Objectives:__
 __Resources:__
   * __Notes:__ [LN-divideAndConquer.pdf](docs/LN-divideAndConquer.pdf)
    * __Lab:__   [Lab7](docs/lab7.pdf)
-  * __Assignment:__  [Assignment 6](docs/hw6.pdf) in Gradescope
-         
+          
 ***
  
 
@@ -169,7 +163,6 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/LN-dynprog.pdf), [LN-rod.pdf](docs/LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
  * __Lab:__   [Lab8](docs/lab8.pdf) , [Fibonacci.ipynb](docs/python-Fibonacci.ipynb), [rodcutting.ipynb](docs/python-RodCutting.ipynb)
-* __Assignment:__    [Assignment 7](docs/hw7.pdf) in Gradescope
    
   
  ***
@@ -188,7 +181,6 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-knapsack.pdf](docs/LN-knapsack.pdf), [knapsack-summary.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/LN-greedy.pdf)
 * __Lab:__   [Lab9](docs/lab9.pdf) 
-* __Assignment:__ Quiz6 in Canvas, [Assignment 8](docs/hw8.pdf) in Canvas
    
  ***
 
@@ -209,7 +201,6 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/LN-lcs.pdf) ; [LN-review.pdf](docs/LN-review.pdf) ; [lcs.ipynb](docs/python-LCS.ipynb) ; [summary-lcs.pdf](docs/summary-lcs.pdf)
 * __Lab:__   [Lab10](docs/lab10.pdf) 
-* __Assignment:__ [Assignment 9](docs/hw9.pdf) in Gradescope 
 * Exam 2 in class
 
 ***
@@ -236,7 +227,6 @@ __Objectives:__
 __Resources:__
 *  __Lecture notes:__ [LN-graphBasics.pdf](docs/LN-basics.pdf), [LN-bfsdfs.pdf](docs/LN-bfsdfs.pdf), [LN-topsort.pdf](docs/LN-topsort.pdf)
 *  __Lab:__   [Lab11](docs/lab11.pdf) 
-* __Assignment:__  [Assignment 10](docs/hw10.pdf) in Gradescope
 
 ***
  
@@ -261,8 +251,7 @@ the notes: how they work, why they work, and their analysis
 
 __Resources:__
 *  __Lecture notes__:  [LN-shpaths.pdf](docs/LN-shpaths.pdf), [LN-mst.pdf](docs/LN-mst.pdf), [LN-mst-summary.pdf](docs/LN-mst-summary.pdf), 
-*  __Lab:__   [Lab12](docs/lab12.pdf)  , [Lab13](docs/lab13.pdf) , [Lab14](docs/lab14.pdf) 
-* __Assignment:__ Quiz 7, 8 in Canvas, [Assignment 11](docs/hw11.pdf) in Gradescope
+*  __Lab:__   [Lab12](docs/lab12.pdf)  , [Lab13](docs/lab13.pdf)
   
  ***
  
@@ -287,8 +276,7 @@ __Objectives:__
 
 __Resources:__
 *  __Lecture notes__:  [LN-shpaths.pdf](docs/LN-shpaths.pdf), [LN-mst.pdf](docs/LN-mst.pdf), [LN-mst-summary.pdf](docs/LN-mst-summary.pdf), 
-*  __Lab:__   [Lab12](docs/lab12.pdf)  , [Lab13](docs/lab13.pdf) , [Lab14](docs/lab14.pdf) 
-* __Assignment:__ Quiz 7, 8 in Canvas, [Assignment 11](docs/hw11.pdf) in Gradescope
+*  __Lab:__    [Lab14](docs/lab14.pdf) 
   
  ***
  
