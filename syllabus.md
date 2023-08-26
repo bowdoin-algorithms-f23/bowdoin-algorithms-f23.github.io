@@ -96,9 +96,9 @@ solutions need to look professional, neat, easy to understand,
 explained, justified and analyzed.
 
 
-__Partner optional:__  You may work with one partner (see course policies for details on what this means).   One member of the team should submit the assignment and should  add the other member to the "team" so that (s)he  can get the credit. 
+_Assignment partner policy:_  You may work with one partner (see course policies for details on what this means).   One member of the team should submit the assignment and should  add the other member to the "team" so that (s)he  can get the credit. 
 
-__Honor code:__ Assignments are at collaboration-level 1; that is,
+_Assignment honor code:_ Assignments are at collaboration-level 1; that is,
 verbal collaboration without solution sharing (check course policies
 for details on what this means).  There are lots of resources online,
 such as lecture notes, animations, visualizations, practice problems,
@@ -121,10 +121,7 @@ class._
   all weighed equally (although the number of questions in each will
   be different).
 
-- __Assignments: 40%__ There will be 8-12 assignments
-  throughout the semester, roughly one per week. The assignments
-  consist of new problems, for which you'll have to come up with
-  efficient solutions. _They will be released in Gradescope._
+- __Assignments: 40%__ 
 
 - __Exams: 50%__ There will be 3 in-class exams: the first one in in
   week 6, the second one in week 10 and the last one at the end of the
