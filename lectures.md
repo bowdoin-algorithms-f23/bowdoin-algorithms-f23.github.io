@@ -19,7 +19,7 @@ __Objectives:__
 
 __Resources:__     
   * __Notes:__ [LN-warmup.pdf](../docs/LN-warmup.pdf)     
-  *  __Lab:__   [Lab 1](docs/lab1.pdf), [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)
+  *  __Lab:__   [Lab 1](../docs/lab1.pdf), [python-warmup.ipynb](../docs/python-warmup.ipynb), [python-insertionSort.ipynb](../docs/python-insertionSort.ipynb)
   
  ***
  
@@ -46,8 +46,8 @@ __Objectives:__
 
 
 __Resources:__    
-  * __Notes:__ [LN-asymptoticNotation.pdf](docs/LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/LN-summations.pdf), [quiz2-practice.pdf](docs/quiz2-practice.pdf)
-  * __Lab:__   [Lab2](docs/lab2.pdf) 
+  * __Notes:__ [LN-asymptoticNotation.pdf](../docs/LN-asymptoticNotation.pdf),  [LN-summations.pdf](../docs/LN-summations.pdf), [quiz2-practice.pdf](../docs/quiz2-practice.pdf)
+  * __Lab:__   [Lab2](../docs/lab2.pdf) 
   
 ***
       
@@ -67,8 +67,8 @@ __Objectives:__
 * Recognize broadly classes of recurrences ( logarithmic, linear, Θ(n lg n), exponential)
 
 __Resources:__    
-  * __Notes:__ [LN-recurrences.pdf](docs/LN-recurrences.pdf), [quiz3-practice.pdf](docs/quiz3-practice.pdf)
-   * __Lab:__   [Lab3](docs/lab3.pdf) 
+  * __Notes:__ [LN-recurrences.pdf](../docs/LN-recurrences.pdf), [quiz3-practice.pdf](../docs/quiz3-practice.pdf)
+   * __Lab:__   [Lab3](../docs/lab3.pdf) 
    
  ***
 
@@ -87,8 +87,8 @@ __Objectives:__
 
 
 __Resources:__     
-* __Notes:__ [LN-heapsort.pdf](docs/LN-heapsort.pdf), [LN-quicksort.pdf](docs/LN-quicksort.pdf),  [slides-heaps.pdf](docs/slides-heaps.pdf) ; [slides-quicksort.pdf](docs/slides-quicksort.pdf)
-* __Lab:__   [Lab4](docs/lab4.pdf)   
+* __Notes:__ [LN-heapsort.pdf](../docs/LN-heapsort.pdf), [LN-quicksort.pdf](../docs/LN-quicksort.pdf),  [slides-heaps.pdf](../docs/slides-heaps.pdf) ; [slides-quicksort.pdf](../docs/slides-quicksort.pdf)
+* __Lab:__   [Lab4](../docs/lab4.pdf)   
 
  ***
   
@@ -107,8 +107,8 @@ __Objectives:__
 * Understand the selection problem and the algorithms for it (quick-select and smart-select)
 
 __Resources:__     
-  * __Notes:__ [LN-linsort.pdf](docs/LN-linsort.pdf), [LN-selection.pdf](docs/LN-selection.pdf)
- * __Lab:__  [Lab5](docs/lab5.pdf),  [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](docs/python-quicksort.ipynb)
+  * __Notes:__ [LN-linsort.pdf](../docs/LN-linsort.pdf), [LN-selection.pdf](../docs/LN-selection.pdf)
+ * __Lab:__  [Lab5](../docs/lab5.pdf),  [python-mergeSort.ipynb](../docs/python-mergesort.ipynb), [python-quickSort.ipynb](../docs/python-quicksort.ipynb)
  *          
  ***
 
@@ -125,7 +125,7 @@ __Objectives:__ This week's objective is algorithmic problem solving.
 
 __Resources:__
   * __Notes:__ (no new topics this week)
-  * __Lab:__   [Lab6](docs/lab6.pdf) 
+  * __Lab:__   [Lab6](../docs/lab6.pdf) 
   *   Exam1 in class
  
  
@@ -144,8 +144,8 @@ __Objectives:__
 * Apply D&C to new problems
 
 __Resources:__
-  * __Notes:__ [LN-divideAndConquer.pdf](docs/LN-divideAndConquer.pdf)
-   * __Lab:__   [Lab7](docs/lab7.pdf)
+  * __Notes:__ [LN-divideAndConquer.pdf](../docs/LN-divideAndConquer.pdf)
+   * __Lab:__   [Lab7](../docs/lab7.pdf)
           
 ***
  
@@ -161,8 +161,8 @@ __Objectives:__
 * Apply DP to new problems 
 
 __Resources:__
-* __Lecture notes:__ [LN-dynprog.pdf](docs/LN-dynprog.pdf), [LN-rod.pdf](docs/LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
- * __Lab:__   [Lab8](docs/lab8.pdf) , [Fibonacci.ipynb](docs/python-Fibonacci.ipynb), [rodcutting.ipynb](docs/python-RodCutting.ipynb)
+* __Lecture notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf)
+ * __Lab:__   [Lab8](../docs/lab8.pdf) , [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb), [rodcutting.ipynb](../docs/python-RodCutting.ipynb)
    
   
  ***
@@ -179,8 +179,8 @@ __Objectives:__
 * Understand the greedy solution for the example in the lecture  (activity selection), including the correctness justification 
 
 __Resources:__
-* __Lecture notes:__ [LN-knapsack.pdf](docs/LN-knapsack.pdf), [knapsack-summary.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/LN-greedy.pdf)
-* __Lab:__   [Lab9](docs/lab9.pdf) 
+* __Lecture notes:__ [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf), [LN-greedy.pdf](../docs/LN-greedy.pdf)
+* __Lab:__   [Lab9](../docs/lab9.pdf) 
    
  ***
 
@@ -199,8 +199,8 @@ __Objectives:__
 
 
 __Resources:__
-* __Lecture notes:__ [LN-lcs.pdf](docs/LN-lcs.pdf) ; [LN-review.pdf](docs/LN-review.pdf) ; [lcs.ipynb](docs/python-LCS.ipynb) ; [summary-lcs.pdf](docs/summary-lcs.pdf)
-* __Lab:__   [Lab10](docs/lab10.pdf) 
+* __Lecture notes:__ [LN-lcs.pdf](../docs/LN-lcs.pdf) ; [LN-review.pdf](../docs/LN-review.pdf) ; [lcs.ipynb](../docs/python-LCS.ipynb) ; [summary-lcs.pdf](../docs/summary-lcs.pdf)
+* __Lab:__   [Lab10](../docs/lab10.pdf) 
 * Exam 2 in class
 
 ***
@@ -225,8 +225,8 @@ __Objectives:__
 * Understand  the concept of topological order and the two algorithms for computing a topological order 
 
 __Resources:__
-*  __Lecture notes:__ [LN-graphBasics.pdf](docs/LN-basics.pdf), [LN-bfsdfs.pdf](docs/LN-bfsdfs.pdf), [LN-topsort.pdf](docs/LN-topsort.pdf)
-*  __Lab:__   [Lab11](docs/lab11.pdf) 
+*  __Lecture notes:__ [LN-graphBasics.pdf](../docs/LN-basics.pdf), [LN-bfsdfs.pdf](../docs/LN-bfsdfs.pdf), [LN-topsort.pdf](../docs/LN-topsort.pdf)
+*  __Lab:__   [Lab11](../docs/lab11.pdf) 
 
 ***
  
@@ -250,8 +250,8 @@ __Objectives:__
 the notes: how they work, why they work, and their analysis
 
 __Resources:__
-*  __Lecture notes__:  [LN-shpaths.pdf](docs/LN-shpaths.pdf), [LN-mst.pdf](docs/LN-mst.pdf), [LN-mst-summary.pdf](docs/LN-mst-summary.pdf), 
-*  __Lab:__   [Lab12](docs/lab12.pdf)  , [Lab13](docs/lab13.pdf)
+*  __Lecture notes__:  [LN-shpaths.pdf](../docs/LN-shpaths.pdf), [LN-mst.pdf](../docs/LN-mst.pdf), [LN-mst-summary.pdf](../docs/LN-mst-summary.pdf), 
+*  __Lab:__   [Lab12](../docs/lab12.pdf)  , [Lab13](../docs/lab13.pdf)
   
  ***
  
@@ -275,8 +275,8 @@ __Objectives:__
 * Know the general idea of Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
 
 __Resources:__
-*  __Lecture notes__:  [LN-shpaths.pdf](docs/LN-shpaths.pdf), [LN-mst.pdf](docs/LN-mst.pdf), [LN-mst-summary.pdf](docs/LN-mst-summary.pdf), 
-*  __Lab:__    [Lab14](docs/lab14.pdf) 
+*  __Lecture notes__:  [LN-shpaths.pdf](../docs/LN-shpaths.pdf), [LN-mst.pdf](../docs/LN-mst.pdf), [LN-mst-summary.pdf](../docs/LN-mst-summary.pdf), 
+*  __Lab:__    [Lab14](../docs/lab14.pdf) 
   
  ***
  
@@ -288,7 +288,7 @@ A quick review and some extra fun problems!
 
 
 __Resources:__
-* __Notes:__  [LN-review.pdf](docs/LN-review.pdf)
+* __Notes:__  [LN-review.pdf](../docs/LN-review.pdf)
                     
 ***
 
