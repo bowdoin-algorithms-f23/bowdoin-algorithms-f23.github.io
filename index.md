@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-## Welcome to Algorithms, Fall 2023! 
+# Welcome to Algorithms, Fall 2023! 
 
 This Github site hosts all **public** resources for the class (syllabus, office hours, policies and detailed schedule).  In addition we'll use: 
 
