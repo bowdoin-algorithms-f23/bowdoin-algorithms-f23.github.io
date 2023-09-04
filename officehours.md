@@ -21,16 +21,18 @@ The weekly schedule for LA **office hours**  is below.
 
 |              |   Time  (Who & location )  |
 |:-------------|:-------------|:---------------|
-| Sundays      |  
-| Mondays      |  
-| Tuesdays     |  
+| Sundays      |  3-5pm | Narmer, Searles 224
+| Mondays      |  7-9pm | Kaylie, Searles 224 
+| Tuesdays     |  7-9 pm| Alex Racape, Searles 224
 | Wednesdays   |  
 | Thursdays    |  
 | Fridays      |  
 | Saturdays    |  
 
 
-__Laura's office hours:__ Mondays 3-4:30 and Fridays 9:30-11, in my office Searles 219.
-
+__Laura's office hours:__ in my office Searles 219
+* Mondays 3-4:30pm
+* Wednesday by appointment 
+* Fridays 9:30-11am
 
 Occasional changes to this schedule  will be posted on Slack. 
