@@ -23,9 +23,9 @@ The weekly schedule for LA **office hours**  is below.
 |:-------------|:-------------|:---------------|
 | Sundays      |  3-5pm | Narmer, Searles 224
 | Mondays      |  7-9pm | Kaylie, Searles 224 
-| Tuesdays     |  7-9 pm| Alex Racape, Searles 224
+| Tuesdays     |  
 | Wednesdays   |  
-| Thursdays    |  
+| Thursdays    |  6-8 pm| Alex Racape, Searles 224
 | Fridays      |  
 | Saturdays    |  
 
