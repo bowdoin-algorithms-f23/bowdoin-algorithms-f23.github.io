@@ -14,7 +14,7 @@ work with the groups, facilitate discussions and answer questions.
 
 Labs are __not__ graded and their goal is to help you learn. It is important that you strive to work through all problems,  check your notes, formulate questions, discuss with your group, the LAs and the instructor, and get your questions answered. We will ocasionally go over solutions to some lab problems as a class and if you find that useful (or not) be sure to let me know how you feel so that we can adjust.
 
-Overall you’ll probably find that most of your learning occurs in the lab. 
+Overall you will   find that most of your learning occurs in the lab. 
 
 
 * [Lab 1](docs/lab1.pdf), [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)
