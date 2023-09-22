@@ -68,11 +68,14 @@ problems separately is not allowed and violates the honor code for the
 class.
 
 
-### Flex days and late policy 
+### Late policy 
 
-Assignments (and quizzes, if any) are due at the specified time so you
-need keep this in mind and plan accordingly. To provide some
-flexibility  you are allotted __three flex days__ for
+Quizzes and assignments  submitted past the posted deadline will be accepted but  will incur a penalty of .4% per hour (9.6% per day), which will be automatically applied in Canvas.  This is to encourage you to keep up with the class material and assignments.  Most topics in this class build directly on prior topics, so it is critical not to fall behind!  
+
+
+### Flex days 
+
+To provide some flexibility  you are allotted __three flex days__ for
 the semester, each of which may be used to submit an assignment or a
 quiz up to 24 hours late (up to 72 hours late if all three flex days
 are applied all at once). For a team assignment, applying a flex day
@@ -81,22 +84,18 @@ a Flex day please message me on Slack clearly stating which flex days
 you want use and for which assignment/quiz (for e.g. "I would like to
 use 1st flex day for assignment 4").  
 
-Beyond the use of flex days, quizzes and assignments work submitted
-late will incur a penalty of 10% per day, for each day of late
-submission. Assignments will not be accepted more than three days (72
-hours) late, unless alternate arrangements have been approved in
-advance of the deadline.
+Since Canvas does not implement Flex days at the moment, at the end of the semester I will go through your assignments and quizzes and I will waive three late  penalties (corresponding to three flex days). 
 
 
 
 
-### Emergencies and personal circumstances
 
-If you have any significant circumstances that you forsee will impact
-your ability to meet a deadline, please let me know as soon as
-possible so that we can make a plan. Note that the circumstances have
-to be _significant_ (for e.g. taking two classes with homework
-deadlines teh same day does not count as an unusual circumstance).
+### Emergencies 
+
+Exceptions to the late policy will be made in case  of significant circumstances (such as you are sick in bed, concussion, etc). If anything arises  that you forsee will impact your ability to meet a deadline, please let me know as soon as possible.  
+
+Note that the circumstances have to be _significant_ (for e.g. taking two classes with homework
+deadlines  the same day, or traveling for athletics events or hackathons, do not count as an unusual circumstance).
 
 
 ### Regrades
