@@ -69,10 +69,8 @@ problems are meant to be solved in class, during the designated lab
 time, working with your group. Myself and the LAs will be around to
 work with the groups, facilitate discussions and answer questions.
 
-Labs are not graded. however it is important that you strive to
-understand all problems as they are designed to extend the
-lectures. It is your responsibility to complete the lab problems and
-get your questions answered. We will ocasionally go over solutions as
+Labs are not graded and their goal is to help you learn.  It is important that you strive to
+work through all problems, formulate questions, check yoru notes,  discuss  with your group, the LAs and the instructor, and get your questions answered. We will ocasionally go over solutions to some lab problems as
 a class and if you find that useful (or not) be sure to let me know
 how you feel so that we can adjust.
 
@@ -86,8 +84,7 @@ There will be 8-12 assignments this semester, roughly one assignment
 per week, which  will be released in Gradescope ---  watch Slack for the announcement.
 
 The assignments consist of _new_ problems for which you'll have to
-come up with efficient solutions on your own. The assignments are not
-meant as a test— they provide opportunities to learn.
+come up with efficient solutions on your own. The assignments will generally be hard and will provide opportunities to learn at a deeper level, and will work towards the learning goal of "develop solutions to new problems". 
 
 We expect everyone to do well on the homework, and to take the time to
 write your work carefully. An important goal of the
@@ -98,16 +95,18 @@ explained, justified and analyzed.
 
 _Assignment partner policy:_  You may work with one partner (see course policies for details on what this means).   One member of the team should submit the assignment and should  add the other member to the "team" so that (s)he  can get the credit. 
 
-_Assignment honor code:_ Assignments are at collaboration-level 1; that is,
+_Assignment honor code:_ 
+* Level 1: Assignments are at collaboration-level 1; that is,
 verbal collaboration without solution sharing (check course policies
-for details on what this means).  There are lots of resources online,
-such as lecture notes, animations, visualizations, practice problems,
+for details on what this means).  
+
+*  Use the internet to learn, but don't cheat: There are lots of resources online, such as lecture notes, animations, visualizations, practice problems,
 video recordings, which you are encouraged to explore to help you
 understand the material. _However, you must be careful not to search
-the internet (and that includes ChatGPT) for specific problems with
-the intent to get hints for their solutions. Searching for the
+the internet (and that includes ChatGPT) for the homework  problems.  Searching for the
 assignment problems on the internet violates academic honesty for this
 class._
+
 
 
 
