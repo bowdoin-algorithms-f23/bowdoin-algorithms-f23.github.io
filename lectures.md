@@ -74,16 +74,17 @@ __Resources:__
 
 
 
-### Week 4: Heapsort and Quicksort
+### Week 4: Quicksort and Heapsort 
 _September 18-22_
 
-This week we introduce more sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort.  Randomized-Quicksort is considered the most efficient general-purpose sort in practice.
+This week we introduce more sorting algorithms: Heapsort, Quicksort and  Randomized-Quicksort.  Randomized-Quicksort is considered the most efficient general-purpose sort in practice.
 
 __Objectives:__ 
-* Understand  how the binary heap is defined and the operations supported  (deleteMin, insert, heapify, buildheap) along with their analysis 
+* Understand Lomuto partition, Quicksort, Randomized-Quicksort and analysis
+* Understand  how the binary heap is defined and the operations supported  (deleteMin, insert, heapify, buildheap) along with  analysis 
 * Understand how Heapsort works in place 
 * Be able to use the heap as a tool to solve new problems 
-* Understand Quicksort, Randomized-Quicksort and the analyzis
+
 
 
 __Resources:__     
@@ -94,10 +95,10 @@ __Resources:__
   
   
   
-### Week 5: Sorting lower bound. Faster sorting. Selection. 
+### Week 5: Sorting lower bound. Sorting without comparisons. The selection problem. 
 _September 25-29_
 
-We have seen the most important  sorting algorithms  and all of them have worst-case running times at least Ω(n lg n). The natural question is: Can a sorting algorithm do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound and show a lower bound for sorting in the comparison model of computation of Ω(n lg n). We describe a couple of different ways to sort (bucket sort and counting sort) which do not use the comparison model  and under certain assumptions run in linear time. 
+We have seen the most important  sorting algorithms  and all of them have worst-case running times at least Ω(n lg n). The natural question is: Can a sorting algorithm do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound and show a lower bound for sorting in the comparison model of computation of Ω(n lg n). We describe a couple of different ways to sort (bucket sort and counting sort) which do not use the comparison model  and under certain assumptions can run in linear time. 
 
 The second topic this week is the __selection__ problem:  Given a set S of n elements and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
 
