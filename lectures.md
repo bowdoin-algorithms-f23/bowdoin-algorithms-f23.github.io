@@ -118,7 +118,7 @@ __Resources:__
 ### Week 6: Problems and FLEX time 
 _October 2-6_
 
-At this point  in the class   (1) you have the tools to analyze algorithms and start to appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your  ideas) and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.   This week we'll work on new problems and start talking about techniques.   
+At this point  in the class   (1) you have the tools to analyze algorithms and start to appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your  ideas) and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.   This week we'll start talking about techniques.   
 __Objectives:__ This week's objective is algorithmic problem solving.  
 * You work on  new problems that require using the algorithms learnt so far in new ways
 * You understand that algorithmic problem solving is both a science and an art 
