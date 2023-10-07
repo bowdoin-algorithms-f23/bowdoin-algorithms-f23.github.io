@@ -21,4 +21,4 @@ Overall you will   find that most of your learning occurs in the lab.
 * [Lab 2](docs/lab2.pdf) (Asymptotics) 
 * [Lab 3](docs/lab3.pdf) (Recurrences)
 * [Lab 4](docs/lab4.pdf) (Sorting)
-* [[Lab5](docs/lab5.pdf) (Sorting), [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](/docs/python-quicksort.ipynb)
+* [Lab5](docs/lab5.pdf) (Sorting), [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](/docs/python-quicksort.ipynb)
