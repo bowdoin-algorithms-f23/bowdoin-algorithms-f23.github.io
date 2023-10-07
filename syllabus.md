@@ -70,7 +70,7 @@ time, working with your group. Myself and the LAs will be around to
 work with the groups, facilitate discussions and answer questions.
 
 Labs are not graded and their goal is to help you learn.  It is important that you strive to
-work through all problems, formulate questions, check yoru notes,  discuss  with your group, the LAs and the instructor, and get your questions answered. We will ocasionally go over solutions to some lab problems as
+work through all problems, formulate questions, check your notes,  discuss  with your group, the LAs and the instructor, and get your questions answered. We will ocasionally go over solutions to some lab problems as
 a class and if you find that useful (or not) be sure to let me know
 how you feel so that we can adjust.
 
@@ -125,8 +125,7 @@ class._
 - __Exams: 50%__ There will be 3 in-class exams: the first one in in
   week 6, the second one in week 10 and the last one at the end of the
   semester (check Polaris for the final exam slot for this class).
-  The exams are non-cumulative, to the extent that it's possible. All
-  exams are weighed equally. The exams weigh 15%, 15% and 20%,
+  The exams are non-cumulative, to the extent that it's possible. The exams weigh 15%, 15% and 20%,
   respectively.
 
 - __Class engagement:__ This means attending class, working with your
