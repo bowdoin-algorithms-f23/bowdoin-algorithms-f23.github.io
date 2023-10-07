@@ -4,6 +4,7 @@ title: Syllabus
 nav_order: 2
 ---
 
+# Algorithms, Fall 2023
 
 ## Syllabus
 
