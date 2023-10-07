@@ -56,18 +56,20 @@ of computer science in general" [Kleinberg & Tardos]
 
 
 
-### The weekly flow
+### Read the lecture notes
 
 Each week, _before coming to class_, read the lecture notes for that
 week. It is expected that you understand the big ideas and results
 ahead of that week's class.  This will make the  classes more pleasant
 and effective and will allow time for class work.
 
+### The labs 
+
 Every week we have a designated lab period in which you’ll work
-on a problem set focused on the topics discussed that week. The lab
+on a set of activities focused on the topics discussed that week. The lab
 problems are meant to be solved in class, during the designated lab
 time, working with your group. Myself and the LAs will be around to
-work with the groups, facilitate discussions and answer questions.
+work with you, facilitate discussions and answer questions.
 
 Labs are not graded and their goal is to help you learn.  It is important that you strive to
 work through all problems, formulate questions, check your notes,  discuss  with your group, the LAs and the instructor, and get your questions answered. We will ocasionally go over solutions to some lab problems as
