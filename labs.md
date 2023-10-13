@@ -22,3 +22,5 @@ Overall you will   find that most of your learning occurs in the lab.
 * [Lab 3](docs/lab3.pdf) (Recurrences)
 * [Lab 4](docs/lab4.pdf) (Sorting)
 * [Lab5](docs/lab5.pdf) (Sorting), [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](/docs/python-quicksort.ipynb)
+* [Lab6](docs/lab6.pdf) (selection)
+* [Lab7](docs/lab7.pdf) (divide-and-conquer), [python-karatsuba.ipynb](docs/python-Karatsuba.ipynb)
