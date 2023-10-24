@@ -91,7 +91,7 @@ __Objectives:__
 __Resources:__     
   * __Notes:__ [LN-linsort.pdf](../docs/LN-linsort.pdf)
  * __Lab:__  [Lab5](../docs/lab5.pdf),  [python-mergeSort.ipynb](../docs/python-mergesort.ipynb), [python-quickSort.ipynb](../docs/python-quicksort.ipynb)
- *          
+          
  ***
 
 
