@@ -11,8 +11,6 @@ nav_order: 6
 
 _August 30-September 1_
 
-We start by going over a couple of sorting algorithms and review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  
-
 __Objectives:__ 
   * Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to analyze  and apply  them to various inputs
   * Understand the basics of algorithm analysis, big-Oh notation,  best-case and worst-case analysis
@@ -28,11 +26,6 @@ __Resources:__
 ### Week 2: Asymptotic Notation and Summations
 
 _September 4-8_
-
-Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
-
-Asymptotic analysis is expressed with O(), Ω() and Θ() notation. We give  formal definitions and discuss their differences and why big-oh is not sufficient.  We introduce the two summations that come up in analysis: arithmetic and geometric. 
-
 
 __Objectives:__ 
 * Understand the relevance of analysis in practice, as well as its assumptions and limitations
@@ -55,8 +48,6 @@ __Resources:__
 ### Week 3: Mergesort and Recurrences
 _September 11-15_
 
-We introduce recurrences to express the running time of recursive algorithms and use them to analyze Mergesort.  
-
 __Objectives:__ 
 * Understand Mergesort: how it works, why it works, and its running time analysis
 * Understand how to express the running time of recursive algorithms using recurrences
@@ -73,9 +64,6 @@ __Resources:__
 
 ### Week 4: Quicksort and Heapsort 
 _September 18-22_
-
-We introduce more sorting algorithms: Heapsort, Quicksort and  Randomized-Quicksort.  
-
 
 __Objectives:__ 
 * Understand Lomuto partition, Quicksort, Randomized-Quicksort and analysis
@@ -96,11 +84,9 @@ __Resources:__
 ### Week 5: Sorting lower bound. Sorting without comparisons. 
 _September 25-29_
 
-Can a sorting algorithm do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound and show a lower bound for sorting in the comparison model of computation of Ω(n lg n). We describe a couple of different ways to sort (bucket sort and counting sort) which do not use the comparison model  and under certain assumptions can run in linear time. 
-
 __Objectives:__ 
-* Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
-* Understand BucketSort and CountingSort,  their analysis and assumptions
+* Can a sorting algorithm do better than Θ(n lg n) in the worst-case? Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
+* Non-comparison sorting: Understand BucketSort and CountingSort,  their analysis and assumptions
 
 _Resources:__     
   * __Notes:__ [LN-linsort.pdf](../docs/LN-linsort.pdf)
@@ -115,10 +101,9 @@ _Resources:__
 _October 2-6_
 
 __Objectives:__ 
-The second topic this week is the __selection__ problem:  Given a set S of n elements and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
-
-* Understand the selection problem and the algorithms for it (quick-select and smart-select)
-
+* The selection problem
+* Quick-Select
+* An elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Resources:__
   * __Notes:__  [LN-selection.pdf](../docs/LN-selection.pdf) 
@@ -131,9 +116,6 @@ What do you do when you want to solve a problem and you don't know where to star
 
 ### Week 7: Divide-and-conquer
 _October 11-13 (half week)_
-
-
- __Divide-and-conquer__ solves a problem by dividing the problem into  smaller subproblems and solving them recursively.  We already saw it  at work in Mergesort. This week we'll see more examples including Karatsuba's integer multiplication and  Strassen's matrix multiplication algorithms. 
 
 __Objectives:__ 
 * Understand how  D&C works in general 
@@ -150,8 +132,6 @@ __Resources:__
 ### Week 8, 9: Dynamic Programming 
 _October 16-27_
 
-_Dynamic programming_ is used for optimization problems (problems where we have to find the best  way to do something) that have optimal sub-structure (an optimal solution to a problem contains within it optimal solutions to sub-problems). 
-
 __Objectives:__ 
 * Understand  how  dynamic programming  works
 * Understand the  examples discussed in the notes (including justification of correctness and analysis) 
@@ -167,9 +147,6 @@ __Resources:__
  
 ### Week 10: More DP examples and the Greedy technique. Exam2 review.  
 _October 30-November 3_
-
-We introduce the greedy technique via the _activity selection_ problem.  We wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing more examples. 
-
 
 __Objectives:__ 
 * Understand  how  the greedy technique works in general and contrast it with DP
@@ -188,9 +165,6 @@ __Resources:__
 
 ### Week 11, 12: Graphs: Basics, BFS and DFS and their applications.  Topological order.
 _November 6-17_
-
-We start with basic terminology and thetraversals, breadth-first and depth-first, which are the stepping stone to many other problems. We introduce the problem of a computing
-topological order on a directed acyclic graph (DAG).
 
 __Objectives:__ 
 * Compare and contrast the adjacency list and adjacency matrix representation of a graph 
