@@ -130,12 +130,13 @@ _October 16-27_
 
 __Objectives:__ 
 * The dynamic programming  technique
-* Examples: Fibonacci, board game, rod cutting and knapsack) (including justification of correctness and analysis) 
+* Examples: Fibonacci, board game, rod cutting and knapsack
+* Justification of correctness via optimal substructure, and analysis
 * Using DP to solve new problems 
 
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf), [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf)
- * __Lab:__   [Lab8](../docs/lab8.pdf) , [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb),   [Lab9](../docs/lab9.pdf), [rodcutting.ipynb](../docs/python-RodCutting.ipynb)
+ * __Lab:__   [Lab8](../docs/lab8.pdf) , [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb), [Fib.java](../docs/Fib.java)  [Lab9](../docs/lab9.pdf), [rodcutting.ipynb](../docs/python-RodCutting.ipynb)
   
  ***
  
