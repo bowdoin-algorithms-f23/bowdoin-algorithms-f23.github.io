@@ -88,7 +88,7 @@ __Objectives:__
 * Can a sorting algorithm do better than Θ(n lg n) in the worst-case? Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
 * Non-comparison sorting: Understand BucketSort and CountingSort,  their analysis and assumptions
 
-_Resources:__     
+__Resources:__     
   * __Notes:__ [LN-linsort.pdf](../docs/LN-linsort.pdf)
  * __Lab:__  [Lab5](../docs/lab5.pdf),  [python-mergeSort.ipynb](../docs/python-mergesort.ipynb), [python-quickSort.ipynb](../docs/python-quicksort.ipynb)
  *          
@@ -231,11 +231,9 @@ __Resources:__
  
  
 ### Last lecture
-_December 6_
+_December 8_
 
 A quick review and some extra fun problems!
-
-
 __Resources:__
 * __Notes:__  [LN-review.pdf](../docs/LN-review.pdf)
                     
