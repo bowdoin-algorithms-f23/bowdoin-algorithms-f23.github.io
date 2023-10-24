@@ -7,11 +7,11 @@ nav_order: 6
 
 ### Detailed schedule (Fall 2023)
 
-### Week 1: Warmup (bubble sort, insertion sort, selection sort) and asymptotic analysis.
+### Week 1: Warmup (bubble sort, insertion sort, selection sort) and analysis.
 
 _August 30-September 1_
 
-We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are  familiar with most of this content from Data Structures. 
+We start by going over a couple of sorting algorithms and review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  
 
 __Objectives:__ 
   * Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to analyze  and apply  them to various inputs
@@ -31,7 +31,7 @@ _September 4-8_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 
-Over the next two weeks we introduce the tools for algorithms analysis.  Asymptotic analysis is expressed with O(), Ω() and Θ() notation. We give  formal definitions and discuss the differences between them and why big-oh is not sufficient.  We introduce the two summations that come up in analysis: arithmetic and geometric summations. 
+Asymptotic analysis is expressed with O(), Ω() and Θ() notation. We give  formal definitions and discuss their differences and why big-oh is not sufficient.  We introduce the two summations that come up in analysis: arithmetic and geometric. 
 
 
 __Objectives:__ 
@@ -55,10 +55,7 @@ __Resources:__
 ### Week 3: Mergesort and Recurrences
 _September 11-15_
 
-We continue with analysis and introduce the "recurrence" to express
-the running time of recursive algorithms. We also introduce a new
-sorting algorithm called Mergesort.  Mergesort is the first algorithm
-we see in this class which beats the quadratic bound.
+We introduce recurrences to express the running time of recursive algorithms and use them to analyze Mergesort.  
 
 __Objectives:__ 
 * Understand Mergesort: how it works, why it works, and its running time analysis
@@ -77,7 +74,8 @@ __Resources:__
 ### Week 4: Quicksort and Heapsort 
 _September 18-22_
 
-This week we introduce more sorting algorithms: Heapsort, Quicksort and  Randomized-Quicksort.  Randomized-Quicksort is considered the most efficient general-purpose sort in practice.
+We introduce more sorting algorithms: Heapsort, Quicksort and  Randomized-Quicksort.  
+
 
 __Objectives:__ 
 * Understand Lomuto partition, Quicksort, Randomized-Quicksort and analysis
@@ -95,45 +93,47 @@ __Resources:__
   
   
   
-### Week 5: Sorting lower bound. Sorting without comparisons. The selection problem. 
+### Week 5: Sorting lower bound. Sorting without comparisons. 
 _September 25-29_
 
-We have seen the most important  sorting algorithms  and all of them have worst-case running times at least Ω(n lg n). The natural question is: Can a sorting algorithm do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound and show a lower bound for sorting in the comparison model of computation of Ω(n lg n). We describe a couple of different ways to sort (bucket sort and counting sort) which do not use the comparison model  and under certain assumptions can run in linear time. 
-
-The second topic this week is the __selection__ problem:  Given a set S of n elements and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
+Can a sorting algorithm do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound and show a lower bound for sorting in the comparison model of computation of Ω(n lg n). We describe a couple of different ways to sort (bucket sort and counting sort) which do not use the comparison model  and under certain assumptions can run in linear time. 
 
 __Objectives:__ 
 * Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
 * Understand BucketSort and CountingSort,  their analysis and assumptions
-* Understand the selection problem and the algorithms for it (quick-select and smart-select)
 
-__Resources:__     
-  * __Notes:__ [LN-linsort.pdf](../docs/LN-linsort.pdf), [LN-selection.pdf](../docs/LN-selection.pdf)
+_Resources:__     
+  * __Notes:__ [LN-linsort.pdf](../docs/LN-linsort.pdf)
  * __Lab:__  [Lab5](../docs/lab5.pdf),  [python-mergeSort.ipynb](../docs/python-mergesort.ipynb), [python-quickSort.ipynb](../docs/python-quicksort.ipynb)
  *          
  ***
 
 
 
-### Week 6: Problems and FLEX time 
+
+### Week 6: Exam 1 review and exam 1. Selection. 
 _October 2-6_
 
-At this point  in the class   (1) you have the tools to analyze algorithms and start to appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your  ideas);  and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.   
+__Objectives:__ 
+The second topic this week is the __selection__ problem:  Given a set S of n elements and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
+
+* Understand the selection problem and the algorithms for it (quick-select and smart-select)
+
 
 __Resources:__
-  * __Notes:__ (no new topics this week)
+  * __Notes:__  [LN-selection.pdf](../docs/LN-selection.pdf) 
   * __Lab:__   [Lab6](../docs/lab6.pdf) 
   *   Exam1 in class
- 
- 
+  
  ***
- 
-### Week 7: Divide-and-conquer
-_October 11-13 (half week)_
 
 What do you do when you want to solve a problem and you don't know where to start? Although there are no recipes, there are some techniques that come up frequently.  
 
-The first technique is __divide-and-conquer__, which solves a problem by dividing the problem into  smaller subproblems and solving them recursively.  You already saw it  at work in Mergesort. This week you'll see more examples of problems that can be  solved via divide-and-conquer, including Karatsuba's integer multiplication and  Strassen's matrix multiplication algorithms. 
+### Week 7: Divide-and-conquer
+_October 11-13 (half week)_
+
+
+ __Divide-and-conquer__ solves a problem by dividing the problem into  smaller subproblems and solving them recursively.  We already saw it  at work in Mergesort. This week we'll see more examples including Karatsuba's integer multiplication and  Strassen's matrix multiplication algorithms. 
 
 __Objectives:__ 
 * Understand how  D&C works in general 
@@ -147,56 +147,38 @@ __Resources:__
 ***
  
 
-### Week 8: Dynamic Programming 
-_October 16-20_
+### Week 8, 9: Dynamic Programming 
+_October 16-27_
 
-We introduce the technique called _dynamic programming_ which can be used for optimization problems (problems where we have to find the best  way to do something) that have optimal sub-structure (an optimal solution to a problem contains within it optimal solutions to sub-problems). 
+_Dynamic programming_ is used for optimization problems (problems where we have to find the best  way to do something) that have optimal sub-structure (an optimal solution to a problem contains within it optimal solutions to sub-problems). 
 
 __Objectives:__ 
 * Understand  how  dynamic programming  works
-* Understand the  examples discussed in the lecture notes (including justification and analysis) 
+* Understand the  examples discussed in the notes (including justification of correctness and analysis) 
 * Apply DP to new problems 
 
 __Resources:__
-* __Lecture notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf)
- * __Lab:__   [Lab8](../docs/lab8.pdf) , [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb), [rodcutting.ipynb](../docs/python-RodCutting.ipynb)
-   
+* __Lecture notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf), [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf)
+ * __Lab:__   [Lab8](../docs/lab8.pdf) , [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb),   [Lab9](../docs/lab9.pdf), [rodcutting.ipynb](../docs/python-RodCutting.ipynb)
   
  ***
  
  
  
-### Week 9: More DP examples and the Greedy technique 
-_October 23-27_
+### Week 10: More DP examples and the Greedy technique. Exam2 review.  
+_October 30-November 3_
 
-We add more dynamic programming examples and we introduce the greedy technique via the _activity selection_ problem. 
+We introduce the greedy technique via the _activity selection_ problem.  We wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing more examples. 
+
 
 __Objectives:__ 
 * Understand  how  the greedy technique works in general and contrast it with DP
-* Understand the greedy solution for the example in the lecture  (activity selection), including the correctness justification 
-
-__Resources:__
-* __Lecture notes:__ [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf), [LN-greedy.pdf](../docs/LN-greedy.pdf)
-* __Lab:__   [Lab9](../docs/lab9.pdf) 
-   
- ***
-
-
-
-
-### Week 10: More DP and FLEX time
-_October 30 - November 3_
-
-We wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing more examples. 
-
-__Objectives:__ 
-
+* Understand the greedy solution for the example in the lecture  (activity selection), including the correctness justification
 * Apply the greedy technique to new problems 
-* Reflect on the problems you've seen so far and how the general technique was instantiated  for each problem. 
-
+  
 
 __Resources:__
-* __Lecture notes:__ [LN-lcs.pdf](../docs/LN-lcs.pdf) ; [LN-review.pdf](../docs/LN-review.pdf) ; [lcs.ipynb](../docs/python-LCS.ipynb) ; [summary-lcs.pdf](../docs/summary-lcs.pdf)
+* __Lecture notes:__ [LN-greedy.pdf](../docs/LN-greedy.pdf),  [LN-lcs.pdf](../docs/LN-lcs.pdf) ; [LN-review.pdf](../docs/LN-review.pdf) ; [lcs.ipynb](../docs/python-LCS.ipynb) ; [summary-lcs.pdf](../docs/summary-lcs.pdf)
 * __Lab:__   [Lab10](../docs/lab10.pdf) 
 * Exam 2 in class
 
@@ -207,12 +189,8 @@ __Resources:__
 ### Week 11, 12: Graphs: Basics, BFS and DFS and their applications.  Topological order.
 _November 6-17_
 
-Once you learn about graphs, you start to see their applications
-everywhere. This week we start with basic terminology and the
-traversals, breadth-first and depth-first, which are the stepping
-stone to many other problems. We introduce the problem of a computing
+We start with basic terminology and thetraversals, breadth-first and depth-first, which are the stepping stone to many other problems. We introduce the problem of a computing
 topological order on a directed acyclic graph (DAG).
-
 
 __Objectives:__ 
 * Compare and contrast the adjacency list and adjacency matrix representation of a graph 
