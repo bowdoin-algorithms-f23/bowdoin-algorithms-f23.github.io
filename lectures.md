@@ -12,8 +12,8 @@ nav_order: 6
 _August 30-September 1_
 
 __Objectives:__ 
-  * Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to analyze  and apply  them to various inputs
-  * Understand the basics of algorithm analysis, big-Oh notation,  best-case and worst-case analysis
+  *  Review searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and their analysis
+  *  Basics of algorithm analysis, big-Oh notation,  best-case and worst-case analysis
 
 __Resources:__     
   * __Notes:__ [LN-warmup.pdf](../docs/LN-warmup.pdf)     
@@ -28,14 +28,14 @@ __Resources:__
 _September 4-8_
 
 __Objectives:__ 
-* Understand the relevance of analysis in practice, as well as its assumptions and limitations
-* Understand the definitions of O(), Ω(), Θ()
-* Understand the rate of growth of common functions
-* Find the rate of growth of a function
-* Compare the order of growth of two arbitrary functions f(n), g(n)
-* Analyze basic algorithm running times using O(), Ω(), Θ() 
-* Understand arithmetic and geometric summations and their Θ() bound 
-* Recognize arithmetic and geometric summations in different forms and give Θ() bounds
+* Relevance of analysis in practice, as well as its assumptions and limitations
+* Definitions of O(), Ω(), Θ()
+* Rate of growth of common functions
+* Finding the rate of growth of a function
+* Comparing the order of growth of two arbitrary functions f(n), g(n)
+* Analyzing basic algorithm running times using O(), Ω(), Θ() 
+* Arithmetic and geometric summations and their Θ() bound 
+* Recognizing arithmetic and geometric summations in different forms and give Θ() bounds
 
 
 __Resources:__    
@@ -49,8 +49,8 @@ __Resources:__
 _September 11-15_
 
 __Objectives:__ 
-* Understand Mergesort: how it works, why it works, and its running time analysis
-* Understand how to express the running time of recursive algorithms using recurrences
+* Mergesort: how it works, why it works, and its running time analysis
+* Express the running time of recursive algorithms using recurrences
 * Solve recurrences by repeated iteration
 * Recognize broadly classes of recurrences ( logarithmic, linear, Θ(n lg n), exponential)
 
@@ -60,25 +60,20 @@ __Resources:__
    
  ***
 
-
-
 ### Week 4: Quicksort and Heapsort 
 _September 18-22_
 
 __Objectives:__ 
-* Understand Lomuto partition, Quicksort, Randomized-Quicksort and analysis
-* Understand  how the binary heap is defined and the operations supported  (deleteMin, insert, heapify, buildheap) along with  analysis 
-* Understand how Heapsort works in place 
-* Be able to use the heap as a tool to solve new problems 
-
-
+* Lomuto partition, Quicksort, Randomized-Quicksort and analysis
+* Min/max-binary heap  and operations   (deleteMin/Max, insert, heapify, buildheap) along with  analysis 
+* Heapsort works in place 
+* Using the heap as a tool to solve new problems 
 
 __Resources:__     
 * __Notes:__ [LN-heapsort.pdf](../docs/LN-heapsort.pdf), [LN-quicksort.pdf](../docs/LN-quicksort.pdf),  [slides-heaps.pdf](../docs/slides-heaps.pdf) ; [slides-quicksort.pdf](../docs/slides-quicksort.pdf)
 * __Lab:__   [Lab4](../docs/lab4.pdf)   
 
  ***
-  
   
   
 ### Week 5: Sorting lower bound. Sorting without comparisons. 
@@ -102,7 +97,7 @@ _October 2-6_
 
 __Objectives:__ 
 * The selection problem
-* Quick-Select
+* Quick-Select in expected O(n) time 
 * An elegant and ingenious algorithm for selection that runs in O(n) worst-case.
 
 __Resources:__
@@ -118,9 +113,10 @@ What do you do when you want to solve a problem and you don't know where to star
 _October 11-13 (half week)_
 
 __Objectives:__ 
-* Understand how  D&C works in general 
-* Understand the D&C algorithms for integer multiplication and matrix multiplication (Karatsuba and Strassen) 
-* Apply D&C to new problems
+* The divide-and-conquer technique 
+* Karatsuba's integer multiplication algorithm
+* Strassen's  matrix multiplication  
+* Using D&C to solve new problems
 
 __Resources:__
   * __Notes:__ [LN-divideAndConquer.pdf](../docs/LN-divideAndConquer.pdf)
@@ -133,9 +129,9 @@ __Resources:__
 _October 16-27_
 
 __Objectives:__ 
-* Understand  how  dynamic programming  works
-* Understand the  examples discussed in  class (Fibonacci, board game, rod cutting and knapsack) (including justification of correctness and analysis) 
-* Apply DP to new problems 
+* The dynamic programming  technique
+* Examples: Fibonacci, board game, rod cutting and knapsack) (including justification of correctness and analysis) 
+* Using DP to solve new problems 
 
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf), [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf)
@@ -150,8 +146,8 @@ _October 30-November 3_
 
 __Objectives:__ 
 * The greedy technique vs. DP
-* Activity selection, including the correctness justification
-* Apply the greedy technique to new problems
+* Example: Activity selection, including the correctness justification
+* Using the greedy technique to solve new problems
   
 __Resources:__
 * __Lecture notes:__ [LN-greedy.pdf](../docs/LN-greedy.pdf),  [LN-lcs.pdf](../docs/LN-lcs.pdf) ; [LN-review.pdf](../docs/LN-review.pdf) ; [lcs.ipynb](../docs/python-LCS.ipynb) ; [summary-lcs.pdf](../docs/summary-lcs.pdf)
@@ -166,11 +162,10 @@ __Resources:__
 _November 6-17_
 
 __Objectives:__ 
-* Compare and contrast the adjacency list and adjacency matrix representation of a graph 
-* Compare and contrast different types of graph: sparse, complete, dense, trees
-* Understand basic graph problems:  path, connectivity, connected components, reachability
-* Understand breadth-first and depth-first traversals, their complexity,  and their properties 
-* Understand  the concept of topological order and the two algorithms for computing a topological order 
+* Graph representation:  adjacency list and adjacency matrix 
+* Basic concepts: sparse, complete, dense, trees, paths, connectivity, connected components, reachability, strongly connected components 
+* Breadth-first and depth-first traversals, their complexity,  and their properties 
+* Topological order and  two algorithms for computing a topological order 
 
 __Resources:__
 *  __Lecture notes:__ [LN-graphBasics.pdf](../docs/LN-basics.pdf), [LN-bfsdfs.pdf](../docs/LN-bfsdfs.pdf), [LN-topsort.pdf](../docs/LN-topsort.pdf)
@@ -194,8 +189,11 @@ earlier in the semester.
 
 __Objectives:__
 
-* Understand the algorithms for computing shortest paths explained in
-the notes: how they work, why they work, and their analysis
+* Shortest paths (SP) on DAgs via dynamic programming
+* Dijkstra's SP algorithm on graphs without negative weights
+* Bellman Ford's SP algorithm on general graphs
+* Correctness and analysis
+* Finding negative cycles 
 
 __Resources:__
 *  __Lecture notes__:  [LN-shpaths.pdf](../docs/LN-shpaths.pdf), [LN-mst.pdf](../docs/LN-mst.pdf), [LN-mst-summary.pdf](../docs/LN-mst-summary.pdf), 
@@ -219,8 +217,8 @@ called The Cut Theorem.
 
 
 __Objectives:__ 
-* Understand the concept of MST (minimum spaninng tree) in a graph, and be able to answer basic questions about it sproperties
-* Know the general idea of Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
+* MST (minimum spaninng tree)  and properties
+* Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
 
 __Resources:__
 *  __Lecture notes__:  [LN-shpaths.pdf](../docs/LN-shpaths.pdf), [LN-mst.pdf](../docs/LN-mst.pdf), [LN-mst-summary.pdf](../docs/LN-mst-summary.pdf), 
@@ -233,7 +231,6 @@ __Resources:__
 _December 8_
 
 A quick review and some extra fun problems!
-__Resources:__
 * __Notes:__  [LN-review.pdf](../docs/LN-review.pdf)
                     
 ***
