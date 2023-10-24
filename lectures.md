@@ -5,7 +5,7 @@ nav_order: 6
 ---
 
 
-### Detailed schedule (Fall 2023)
+## Detailed schedule (Fall 2023)
 
 ### Week 1: Warmup (bubble sort, insertion sort, selection sort) and analysis.
 
