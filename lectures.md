@@ -103,7 +103,7 @@ _October 2-6_
 __Objectives:__ 
 * The selection problem
 * Quick-Select
-* An elegant and ingenious algorithm that runs in O(n) worst-case.
+* An elegant and ingenious algorithm for selection that runs in O(n) worst-case.
 
 __Resources:__
   * __Notes:__  [LN-selection.pdf](../docs/LN-selection.pdf) 
@@ -134,7 +134,7 @@ _October 16-27_
 
 __Objectives:__ 
 * Understand  how  dynamic programming  works
-* Understand the  examples discussed in the notes (including justification of correctness and analysis) 
+* Understand the  examples discussed in  class (Fibonacci, board game, rod cutting and knapsack) (including justification of correctness and analysis) 
 * Apply DP to new problems 
 
 __Resources:__
@@ -149,11 +149,10 @@ __Resources:__
 _October 30-November 3_
 
 __Objectives:__ 
-* Understand  how  the greedy technique works in general and contrast it with DP
-* Understand the greedy solution for the example in the lecture  (activity selection), including the correctness justification
-* Apply the greedy technique to new problems 
+* The greedy technique vs. DP
+* Activity selection, including the correctness justification
+* Apply the greedy technique to new problems
   
-
 __Resources:__
 * __Lecture notes:__ [LN-greedy.pdf](../docs/LN-greedy.pdf),  [LN-lcs.pdf](../docs/LN-lcs.pdf) ; [LN-review.pdf](../docs/LN-review.pdf) ; [lcs.ipynb](../docs/python-LCS.ipynb) ; [summary-lcs.pdf](../docs/summary-lcs.pdf)
 * __Lab:__   [Lab10](../docs/lab10.pdf) 
