@@ -153,7 +153,10 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-greedy.pdf](../docs/LN-greedy.pdf)
 * __Lab:__   [Lab10](../docs/lab10.pdf) 
-*  Optional: The LCS problem:  [LN-lcs.pdf](../docs/LN-lcs.pdf),  [lcs.ipynb](../docs/python-LCS.ipynb), [summary-lcs.pdf](../docs/summary-lcs.pdf)
+
+***
+
+*  Optional resources: The LCS problem:  [LN-lcs.pdf](../docs/LN-lcs.pdf),  [lcs.ipynb](../docs/python-LCS.ipynb), [summary-lcs.pdf](../docs/summary-lcs.pdf)
 
 ***
 
