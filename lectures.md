@@ -167,6 +167,7 @@ _November 6 - 10_
 
 __Resources:__ [exam2-review](../docs/LN-review.pdf)
 * Friday Nov 10: Exam 2 in class
+
 ***
  
  
