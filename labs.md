@@ -25,3 +25,5 @@ Overall you will   find that most of your learning occurs in the lab.
 * [Lab6](docs/lab6.pdf) (selection)
 * [Lab7](docs/lab7.pdf) (divide-and-conquer), [python-karatsuba.ipynb](docs/python-Karatsuba.ipynb)
 * [Lab8](docs/lab8.pdf) (dynamic programming), [Fib.java](docs/Fib.java)
+* [Lab9](docs/lab9.pdf) (dynamic programming)
+* [Lab10](docs/lab10.pdf) (greedy)
