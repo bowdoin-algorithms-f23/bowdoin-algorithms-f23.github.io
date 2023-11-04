@@ -136,6 +136,7 @@ __Objectives:__
 
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf), [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf)
+* In class problems: [P1](../docs/week10-problem1.pdf), [P2](../docs/week10-problem2.pdf)
  * __Lab:__   [Lab8](../docs/lab8.pdf) , [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb), [Fib.java](../docs/Fib.java)  [Lab9](../docs/lab9.pdf), [rodcutting.ipynb](../docs/python-RodCutting.ipynb)
   
  ***
@@ -162,7 +163,7 @@ __Resources:__
 _November 6 - 10_
 
 __Resources:__ [exam2-review](../docs/LN-review.pdf)
-* Exam 2 in class
+* Friday Nov 10: Exam 2 in class
 ***
  
  
