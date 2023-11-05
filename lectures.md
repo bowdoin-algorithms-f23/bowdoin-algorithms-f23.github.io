@@ -163,7 +163,7 @@ __Resources:__
 
 
 ### Week 11:  Review and exam 2
-_November 6 - 10_
+_November 6, 10_
 
 __Resources:__ [exam2-review](../docs/LN-review.pdf)
 * Friday Nov 10: Exam 2 in class
@@ -172,7 +172,7 @@ __Resources:__ [exam2-review](../docs/LN-review.pdf)
  
  
  
-### Week 11.5, 12, 13.5:    Graphs Basics. BFS and DFS and their applications.  Topological order.
+### Week 11.5, 12, 13.5:    Graphs Basics. BFS and DFS and their applications.  Topological order. Dynamic programming on DAGs. 
 _Nov 9, 14, 16, 17, 21_
 
 
@@ -180,7 +180,8 @@ __Objectives:__
 * Graph representation:  adjacency list and adjacency matrix 
 * Basic concepts: sparse, complete, dense, trees, paths, connectivity, connected components, reachability, strongly connected components 
 * Breadth-first and depth-first traversals, their complexity,  and their properties 
-* Topological order and  two algorithms for computing a topological order 
+* Topological order and  two algorithms for computing a topological order
+* Dynamic programming on DAGs
 
 __Resources:__
 *  __Lecture notes__: [LN-graphBasics.pdf](../docs/LN-basics.pdf), [LN-bfsdfs.pdf](../docs/LN-bfsdfs.pdf), [LN-topsort.pdf](../docs/LN-topsort.pdf) 
