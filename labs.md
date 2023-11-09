@@ -27,3 +27,4 @@ Overall you will   find that most of your learning occurs in the lab.
 * [Lab8](docs/lab8.pdf) (dynamic programming), [Fib.java](docs/Fib.java)
 * [Lab9](docs/lab9.pdf) (dynamic programming)
 * [Lab10](docs/lab10.pdf) (greedy)
+* [Lab11](docs/lab11.pdf) (graphs basics)
