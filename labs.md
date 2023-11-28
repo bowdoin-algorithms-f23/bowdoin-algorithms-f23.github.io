@@ -28,3 +28,4 @@ Overall you will   find that most of your learning occurs in the lab.
 * [Lab9](docs/lab9.pdf) (dynamic programming)
 * [Lab10](docs/lab10.pdf) (greedy)
 * [Lab11](docs/lab11.pdf) (graphs basics)
+* [Lab12](docs/lab12.pdf) (more graphs basics)
